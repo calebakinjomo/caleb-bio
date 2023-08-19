@@ -1,0 +1,89 @@
+/************************** BODY SELECTORS  *************************/
+body{
+    background-color: orange;
+    display: inline;
+}
+/**************************  H1 SELECTORS  *************************/
+h1{
+     border-radius: 1px;
+     background-color: rgb(252, 252, 252);
+    height: 50px;
+    color: rgb(0, 0, 0);
+}
+/**************************  HR SELECTORS  *************************/
+div{
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+}
+hr{
+    height: 2px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 88, 88);
+    width: 70%;
+    border-radius: 30px;
+    border-top-style: dotted;
+    border-style: none;
+    border-color: black;
+    border-width: 5px;
+}
+text:hover{
+    color: rgb(255, 88, 88);
+}
+title{
+    color: rgb(255, 88, 88);;
+}
+label:hover{
+    font-size: 20px;
+    color: rgb(245, 49, 0);
+}
+label{
+    font-size: 19.5px;
+}
+#Form{
+    box-shadow: inset;
+}
+.submit:hover{
+    border-top-color: blue;
+}
+li{
+    font-size: 17px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+li:hover{
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+table{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+table:hover{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 17px;
+}
+div:hover{
+    background-color: darksalmon;
+    border-radius: 50px;
+}
+p{
+    font-size: 17px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p:hover{
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+thead{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+thead:hover{
+    font-size: 21px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+img{
+    cursor: zoom-in;
+}
+img:hover{
+    visibility: visible;
+}
+
